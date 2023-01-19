@@ -30,12 +30,10 @@ I'm <strong>Chingun Undrakh /cybinon/</strong>
 <hr />
 <h4>Github Stats</h4>
 
-<img align="center" src="https://github-readme-stats-one-taupe-67.vercel.app/api?username=cybinon&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&title_color=blue&hide_border=true&icon_color=blue&include_all_commits=true&hide=stars" alt="ovi" width="419" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cybinon&theme=radical)](https://git.io/streak-stats)
 
-<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cybinon&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybinon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cybinon)](https://github.com/anuraghazra/github-readme-stats)
--->
