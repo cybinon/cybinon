@@ -6,6 +6,10 @@ I'm <strong>Chingun Undrakh /cybinon/</strong>
 
 <hr />
 
+<img src="https://github-profile-trophy.vercel.app/?username=cybinon" />
+
+<hr />
+
 - 🌱 I’m currently learning 3D Object design /Blender/, Matrices theory.
 - 💬 Ask me about System Design, Python, Nodejs, Diagram building.
 
